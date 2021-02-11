@@ -14,6 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "baseui": "^9.110.0",
     "express": "^4.17.1"
   }
 }
